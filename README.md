@@ -1,4 +1,8 @@
 # NAO-Robot-Handwriting
+This software builds up a human-robot interaction system. The user can teach the NAO Robot to write by writing in the pen-tablet. A Q-learning algorithm is used to help robot learn the hand-writing letter. There are three modes for users to use:
+* Kinematic: Mimicking the writing trajectory through Kinematic
+* Q-learning: Using Q-learning algoritm to learn the write actions
+* Keyboard Control: Use keyboard to control Robot's right arm to write
 
 ![test1](https://user-images.githubusercontent.com/22671087/40587069-e0259240-620d-11e8-9812-7054dd4b8272.jpg)
 ## Prerequisites
