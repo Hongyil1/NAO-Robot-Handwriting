@@ -6,7 +6,7 @@
 
 ## Authors
 
-* **Hongyi Lin** - *Initial work* - [Hongyi Lin](https://github.com/Hongyil1)
+* **[Hongyi Lin](https://github.com/Hongyil1)** 
 
 ## License
 
